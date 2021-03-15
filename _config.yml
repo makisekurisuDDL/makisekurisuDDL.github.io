@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: 初墨 Sumi
+subtitle: 一个兴趣使然的博客网站
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: Welcome and thank you for your visiting！
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://sumiblog.top"
 
 permalink: /:year/:month/:title/
 
@@ -38,10 +38,10 @@ comment:
 # Social
 social:
     weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    github: makisekurisuDDL
+    twitter: makise_ddl
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: makisekurisu_ddl@163.com
 
 # Google Analytics
 ga:
