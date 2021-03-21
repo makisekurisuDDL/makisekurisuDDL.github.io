@@ -4,11 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}
-  <link rel="Bookmark" type="image/x-icon" href="/assets/images/head_img.icon" />
-  <link rel="icon" type="image/x-icon" href="/assets/images/head_img.icon" />
-  <link rel="shortcut icon" type="image/x-icon" href="/assets/images/head_img.icon" />
-  </title>
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="Wei Wang">
 
@@ -20,8 +16,8 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
-  <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
-  <link href="/assets/images/favicon.png" rel="shortcut icon" type="image/png">
+  <link rel="icon" type="image/png" href="/assets/images/favicon.icon" />
+  <link href="/assets/images/favicon.icon" rel="shortcut icon" type="image/png">
   
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
