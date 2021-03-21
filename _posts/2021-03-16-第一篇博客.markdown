@@ -1,0 +1,13 @@
+---
+layout: post
+title: 第一篇博客
+date: 2021-03-16 14:59:00
+---
+## Hello World！
+***
+&emsp;&emsp;折腾了蛮久的，终于找到了一个喜欢的模板，但大概率不会写几篇博客_(:з」∠)_<br/>
+&emsp;&emsp;~~都2021年了真的还有人写博客吗？~~<br/>
+&emsp;&emsp;jekyll的安装也是一波三折，后来才发现如果只是fork别人的模板，似乎用不到jekyll。还学了
+点html和markdown，与学爬虫时相比对网页的认知更深了，但总觉得写这东西费眼睛。<br/>
+&emsp;&emsp;贴个模板作者的链接[Onevcat](https://onevcat.com/)。<br/>
+&emsp;&emsp;希望能坚持下去。
